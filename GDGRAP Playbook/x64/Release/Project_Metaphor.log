@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\ACER\source\repos\Project_Metaphor\Project_Metaphor\main.cpp(169,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ACER\source\repos\Project_Metaphor\Project_Metaphor\main.cpp(169,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ACER\source\repos\Project_Metaphor\Project_Metaphor\main.cpp(375,55): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Generating code
+  1 of 1993 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project_Metaphor.vcxproj -> C:\Users\ACER\source\repos\Project_Metaphor\x64\Release\Project_Metaphor.exe
